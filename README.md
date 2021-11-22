@@ -18,7 +18,7 @@ Rendering 3D models using the LuxCoreRender. The project includes examples that 
 <img src="GithubImages/Dark/ring2.png"  height="400" />
 
 <hr>
-
+The Views of the 3D model with, and without the shader are shown below:
 <img src="GithubImages/Dark/ring3.png"  height="400" />
 <img src="GithubImages/Dark/ring4.png"  height="400" />
 <img src="GithubImages/Dark/ring5.png"  height="400" />
