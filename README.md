@@ -29,14 +29,14 @@ Rendering 3D models using the LuxCoreRender. The project includes examples that 
 
 <ul>
  <li>
-Rougness under the metal materials shader needs to be low to allow more reflection, which is why its set to 0.01.
+Roughness under the metal materials shader needs to be low to allow more reflection, which is why it's set to 0.01.
  </li>
 	
  <li>	
-Under the world properties settings, increasing the light gain will better show the feedback of the light hitting the ground, and brighten the metal parts of the 3D object for more exposure. An example of this is shown under the "Light" folder in the "GithubImages" folder included in the repo.
+Under the world properties settings, increasing the light gain will better show the feedback of the light hitting the ground, and brighten the metal parts of the 3D object for more exposure. An example of this is shown under the "Light" folder in the "Github Pages" folder included in the repo.
  </li>
 
 <li>
-Ring 3 uses a different subset of values due to the glass material shader to render the diamond. The Light gain value is set to 2.0 instad of 1.0, and gamma is set to 1 instead of 0.9.
+Ring 3 uses a different subset of values due to the glass material shader to render the diamond. The Light gain value is set to 2.0 instead of 1.0, and gamma is set to 1 instead of 0.9.
  </li>
 </ul>
