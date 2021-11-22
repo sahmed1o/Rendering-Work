@@ -1,5 +1,5 @@
 # Rendering-Work
-Rendering 3D models using the LuxCoreRender. The project includes examples that use metal material nodes shaders, and metal with diamonds rendered with a glass material shader.
+Rendering 3D models using the LuxCoreRender. The project includes examples that use metal material nodes shaders, and metal with diamonds rendered with a glass material shader under different light settings.
 
 <strong> Grahpics Software and Renderers Used:  </strong>
 <ul>
